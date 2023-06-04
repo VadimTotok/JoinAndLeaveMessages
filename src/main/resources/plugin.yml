@@ -1,0 +1,4 @@
+name: JoinAndLeaveMessages
+version: '${project.version}'
+main: spigot.joinandleavemessages.JoinAndLeaveMessages
+api-version: 1.19
